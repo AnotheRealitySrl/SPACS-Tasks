@@ -1,4 +1,4 @@
-﻿using Virtuademy.SDK.Graphs;
+﻿using SPACS.Graphs;
 
 namespace Virtuademy.SDK.Tasks
 {
