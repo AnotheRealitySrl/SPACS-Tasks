@@ -2,6 +2,7 @@ using Virtuademy.SDK.Tasks.XRDetectors;
 
 using UnityEngine;
 
+
 namespace Virtuademy.SDK.TasksXRKit.AutoHandDetectors
 {
     [CreateAssetMenu(menuName = "Virtuademy/SDK-TasksXRKit/AutoHandDetectorsConfig", fileName = "AutoHandDetectorsConfig")]

@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
+
 namespace Virtuademy.SDK.Tasks.Detectors
 {
     ///////////////////////////////////////////////////////////////////////////

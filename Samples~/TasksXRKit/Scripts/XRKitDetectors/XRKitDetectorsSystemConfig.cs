@@ -2,6 +2,7 @@ using Virtuademy.SDK.Tasks.XRDetectors;
 
 using UnityEngine;
 
+
 namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
 {
     [CreateAssetMenu(menuName = "Virtuademy/SDK-TasksXRKit/XRKitDetectorsConfig", fileName = "XRKitDetectorsConfig")]
