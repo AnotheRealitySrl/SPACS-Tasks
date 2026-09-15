@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 
-namespace Virtuademy.SDK.Tasks.Detectors
+namespace SPACS.Tasks.Detectors
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

@@ -2,7 +2,9 @@ using UnityEditor;
 
 using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks.Editor
+using SPACS.Tasks;
+
+namespace SPACS.TasksEditor
 {
     [CustomEditor(typeof(TaskObjectReverter)), CanEditMultipleObjects]
     public class TaskObjectReverterEditor : UnityEditor.Editor

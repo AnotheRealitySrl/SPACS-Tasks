@@ -1,10 +1,10 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 using Virtuademy.SDK.XRKit;
 
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

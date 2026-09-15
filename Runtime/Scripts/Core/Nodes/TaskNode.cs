@@ -8,7 +8,7 @@ using UnityEngine.Events;
 using UnityEngine.UIElements;
 using UnityEngine.Video;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

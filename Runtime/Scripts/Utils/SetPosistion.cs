@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     public class SetPosistion : MonoBehaviour
     {

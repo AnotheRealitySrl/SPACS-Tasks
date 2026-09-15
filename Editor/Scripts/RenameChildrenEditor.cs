@@ -2,7 +2,7 @@ using UnityEditor;
 
 using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks.Editor
+namespace SPACS.TasksEditor
 {
     public class RenameChildrenEditor : EditorWindow
     {

@@ -1,8 +1,8 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     ///////////////////////////////////////////////////////////////////////////
     public class XRKitGrabDetector : XRGrabDetector

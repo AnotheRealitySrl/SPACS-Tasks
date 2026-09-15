@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Virtuademy.SDK.Tasks.XRDetectors
+namespace SPACS.Tasks.XRDetectors
 {
     public class XRTeleportDetector : XRDetector
     {

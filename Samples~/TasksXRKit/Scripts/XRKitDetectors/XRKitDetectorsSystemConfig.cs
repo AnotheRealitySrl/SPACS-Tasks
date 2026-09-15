@@ -1,9 +1,9 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 using UnityEngine;
 
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     [CreateAssetMenu(menuName = "Virtuademy/SDK-TasksXRKit/XRKitDetectorsConfig", fileName = "XRKitDetectorsConfig")]
     public class XRKitDetectorsSystemConfig : DetectorsSystemConfig

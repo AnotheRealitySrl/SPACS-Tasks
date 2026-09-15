@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     public abstract class TaskObjectReverterBase : MonoBehaviour
     {

@@ -8,7 +8,7 @@ using UnityEngine.Events;
 using UnityEditor;
 #endif
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     public class TaskStepSetter : MonoBehaviour
     {

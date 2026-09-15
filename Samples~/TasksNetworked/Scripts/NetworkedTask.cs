@@ -1,8 +1,8 @@
-using Virtuademy.SDK.Tasks;
-using static Virtuademy.SDK.Tasks.TaskNode;
+using SPACS.Tasks;
+using static SPACS.Tasks.TaskNode;
 using UnityEngine;
 
-namespace Virtuademy.SDK.TasksNetworked
+namespace SPACS.TasksNetworked
 {
     public class NetworkedTask : Task
     {

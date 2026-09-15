@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks.XRDetectors
+namespace SPACS.Tasks.XRDetectors
 {
     [CreateAssetMenu(menuName = "Virtuademy/SDK-Tasks/DetectorsConfig", fileName = "DetectorsConfig")]
     public abstract class DetectorsSystemConfig : ScriptableObject

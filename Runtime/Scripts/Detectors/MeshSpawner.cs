@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 
 
-namespace Virtuademy.SDK.Tasks.Detectors
+namespace SPACS.Tasks.Detectors
 {
     public class MeshSpawner : MonoBehaviour
     {

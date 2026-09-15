@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks.XRDetectors
+namespace SPACS.Tasks.XRDetectors
 {
     public class DetectorsSystem : MonoBehaviour
     {

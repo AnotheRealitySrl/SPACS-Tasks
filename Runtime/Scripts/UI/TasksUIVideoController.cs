@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
-namespace Virtuademy.SDK.Tasks.UI
+namespace SPACS.Tasks.UI
 {
     /// <summary>
     /// Helps with the VideoPlayer and its RenderTexture.

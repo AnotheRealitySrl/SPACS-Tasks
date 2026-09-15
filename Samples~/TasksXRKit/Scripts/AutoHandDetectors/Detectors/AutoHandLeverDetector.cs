@@ -1,8 +1,8 @@
 using Autohand;
 
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
-namespace Virtuademy.SDK.TasksXRKit.AutoHandDetectors
+namespace SPACS.TasksXRKit.AutoHandDetectors
 {
     public class AutoHandLeverDetector : XRLeverDetector
     {

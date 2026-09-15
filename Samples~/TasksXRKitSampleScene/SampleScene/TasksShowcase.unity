@@ -1054,7 +1054,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855657
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 2487e1fa-da86-4fe5-8fab-f39b35a7e7b0
         name: Task4
@@ -1539,7 +1539,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1922011539}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -1619,7 +1619,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855759
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: f228064d-23cf-4a86-84c3-5c5eb2ba1e37
         name: Cube2
@@ -1759,7 +1759,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2143163465}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -2409,7 +2409,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855641
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: c8d80807-95b7-4a66-baf7-a6a1a2c34b6a
         name: Task2
@@ -2715,7 +2715,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855679
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: ba50e7e4-d39c-4f0c-9835-7be6af02f810
         name: Button3
@@ -3513,7 +3513,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 2226425432811241472
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: eefc1244-28cf-4c45-a928-9875778fdfc8
         name: Cube6
@@ -5536,7 +5536,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1349950577}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -6599,7 +6599,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855823
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: e31cb848-9ec3-4986-be15-33275c52d7ab
         name: Lever
@@ -6901,7 +6901,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1113425505}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -7043,7 +7043,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855674
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 78156578-ca9b-4383-8e82-38ab4984def7
         name: Teleport3
@@ -7165,7 +7165,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 944274797}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -7286,7 +7286,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 789788231}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -7669,7 +7669,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855694
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: c40b1d40-04ad-4b9c-816c-121ab79389ca
         name: Task6
@@ -8141,7 +8141,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855719
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: b076a757-2b09-4f65-9025-f44a2dbaa670
         name: GrabWithRight
@@ -8373,7 +8373,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855709
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 2c81823b-ed66-4c0e-a26b-db96d3e5bb66
         name: Task9
@@ -8530,7 +8530,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855660
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 9665f1f9-3220-4430-ae18-5312171c5e0a
         name: SimpleGrab
@@ -8749,7 +8749,7 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1942311179}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -9176,7 +9176,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855743
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 8b0986b4-8443-44d5-8449-d608ba8271c9
         name: SnapCylinder
@@ -9670,7 +9670,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 237923284}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -10151,7 +10151,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855773
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: a41cdd53-b376-42c5-a720-91384eff3e18
         name: Cube4
@@ -10942,7 +10942,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1239336327}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -11057,7 +11057,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2081359049}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -11165,7 +11165,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855643
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: ad8eee21-5d48-48b8-b04b-9eb6ccef1ae3
         name: Teleport2
@@ -11507,7 +11507,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 827612001}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -11619,7 +11619,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855652
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 75004f1b-f3b3-4c5f-8d6b-620b3af61de1
         name: Button1
@@ -12345,7 +12345,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855731
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 352e00d6-d1ab-4072-924f-5181f857bbc6
         name: SnapCube
@@ -12607,7 +12607,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855640
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 6bd519b6-feca-4452-8a0e-b3fb4423d548
         name: Teleport
@@ -12793,7 +12793,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855655
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 070f01b6-bd56-41c9-9b68-f21717e28c94
         name: Button2
@@ -12912,7 +12912,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 598687512}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -13069,7 +13069,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1689334498}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -13177,7 +13177,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1551133404}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -13399,7 +13399,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 162116954}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -13577,7 +13577,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855714
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 1cb0f86e-50b0-4dc4-90b0-11c5851967e8
         name: GrabWithLeft
@@ -13923,7 +13923,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855649
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: fc07ab6a-2b16-465b-b7e1-bbf95aa7842d
         name: Task3
@@ -14048,7 +14048,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1298827252}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -14343,7 +14343,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855642
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 692602b1-fc40-435c-93a1-5618ea548622
         name: Teleport1
@@ -14643,7 +14643,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 331065395}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -14862,7 +14862,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1131133855}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -15003,7 +15003,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855639
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 205e8635-2d15-4f52-bc5b-3f7edf7855e3
         name: Task1
@@ -15099,7 +15099,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855780
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 586ff484-7e9f-4d03-8bd4-21b1d1b5f38d
         name: Cube5
@@ -15244,7 +15244,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855752
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: c0f35a0a-6cca-47bb-a209-23f7cdfc55f5
         name: Cube1
@@ -15731,7 +15731,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1422636523}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -15943,7 +15943,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855704
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 3c42418b-524b-429f-b2f9-f21a1a01d3ec
         name: Task8
@@ -16095,7 +16095,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855689
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: a5887cbc-27f0-4625-ab72-8f9cb3c5d8d4
         name: Task5
@@ -16701,7 +16701,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855699
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 73e2efd0-9dbf-4dec-86c3-13fc33bbc5b3
         name: Task7
@@ -16867,7 +16867,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855766
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: f015c336-41dd-4354-8fda-f25a2f186501
         name: Cube3
@@ -17044,7 +17044,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855807
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 6bc68141-f53b-46ec-b1d1-4def62ff505b
         name: Climb
@@ -17210,7 +17210,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1692573889}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -17318,7 +17318,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1025866344}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -18317,7 +18317,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 412049026}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.UI.TaskUIManager, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.UI.TaskUIManager, SPACS.Tasks
         m_MethodName: DoAfterTaskPrepare
         m_Mode: 1
         m_Arguments:
@@ -18795,7 +18795,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855737
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: 56210193-b3e6-4337-85fd-75f7cf82acdb
         name: SnapSphere
@@ -18954,7 +18954,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 640475923}
-        m_TargetAssemblyTypeName: Virtuademy.SDK.Tasks.Task, Virtuademy.SDK.Tasks
+        m_TargetAssemblyTypeName: SPACS.Tasks.Task, SPACS.Tasks
         m_MethodName: CompleteTask
         m_Mode: 1
         m_Arguments:
@@ -19278,7 +19278,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855814
-      type: {class: TaskNode, ns: Virtuademy.SDK.Tasks, asm: Virtuademy.SDK.Tasks}
+      type: {class: TaskNode, ns: SPACS.Tasks, asm: SPACS.Tasks}
       data:
         guid: c30dc0f6-5219-4225-81cd-792b88abd5ad
         name: Teleport

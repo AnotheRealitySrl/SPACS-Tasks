@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 using FontStyles = TMPro.FontStyles;
 
-namespace Virtuademy.SDK.Tasks.UI
+namespace SPACS.Tasks.UI
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

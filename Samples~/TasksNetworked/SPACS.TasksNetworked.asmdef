@@ -1,14 +1,12 @@
 {
-  "name": "Virtuademy.SDK.TasksXRKit",
-  "rootNamespace": "Virtuademy.SDK.TasksXRKit",
+  "name": "SPACS.TasksNetworked",
+  "rootNamespace": "SPACS.TasksNetworked",
   "references": [
-    "GUID:dc960734dc080426fa6612f1c5fe95f3",
-    "GUID:fe685ec1767f73d42b749ea8045bfe43",
-    "GUID:6621723ab2f3cff4a8be0e8c1642af94",
     "GUID:23c385269eb2e5044a0a2686aeeaf762",
     "GUID:fe738984b0c28c342b0d3d49a82efa50",
-    "GUID:936cb61de878b0c43a035e9c66a66f40",
-    "GUID:1fba273f2a1637a4eb98d8266de33545"
+    "GUID:6055be8ebefd69e48b49212b09b47b2f",
+    "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+    "GUID:831409e8f9d13b5479a3baef9822ad34"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],

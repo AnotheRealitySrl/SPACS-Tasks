@@ -3,7 +3,7 @@ using I2.Loc;
 using UnityEngine;
 using UnityEngine.Video;
 
-namespace Virtuademy.SDK.Tasks.Utils
+namespace SPACS.Tasks.Utils
 {
     public class LocalizeTask : MonoBehaviour
     {

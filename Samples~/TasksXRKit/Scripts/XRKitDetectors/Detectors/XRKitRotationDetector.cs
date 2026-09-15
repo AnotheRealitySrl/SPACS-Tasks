@@ -1,8 +1,8 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     public class XRKitRotationDetector : XRRotationDetector
     {

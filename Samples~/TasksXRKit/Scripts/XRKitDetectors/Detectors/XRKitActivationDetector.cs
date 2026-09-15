@@ -1,4 +1,4 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 using System.Linq;
 
@@ -6,7 +6,7 @@ using Unity.XR.CoreUtils;
 
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

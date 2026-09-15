@@ -1,6 +1,6 @@
 ﻿using SPACS.Graphs;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

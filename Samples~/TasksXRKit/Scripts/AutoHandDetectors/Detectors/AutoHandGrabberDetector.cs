@@ -1,10 +1,10 @@
 using Autohand;
 
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 using System.Linq;
 
-namespace Virtuademy.SDK.TasksXRKit.AutoHandDetectors
+namespace SPACS.TasksXRKit.AutoHandDetectors
 {
     public class AutoHandGrabberDetector : XRGrabberDetector
     {

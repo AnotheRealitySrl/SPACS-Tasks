@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Virtuademy.SDK.Tasks.XRDetectors
+namespace SPACS.Tasks.XRDetectors
 {
     /// <summary>
     /// Component that fires an event when an object like a lever rotate and reach a certain point.

@@ -1,9 +1,9 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 
 using UnityEngine;
 
 
-namespace Virtuademy.SDK.TasksXRKit.AutoHandDetectors
+namespace SPACS.TasksXRKit.AutoHandDetectors
 {
     [CreateAssetMenu(menuName = "Virtuademy/SDK-TasksXRKit/AutoHandDetectorsConfig", fileName = "AutoHandDetectorsConfig")]
     public class AutoHandDetectorsSystemConfig : DetectorsSystemConfig

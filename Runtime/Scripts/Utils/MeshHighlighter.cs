@@ -3,7 +3,7 @@ using System.Linq;
 
 using UnityEngine;
 
-namespace Virtuademy.SDK.Tasks.Utils
+namespace SPACS.Tasks.Utils
 {
     public class MeshHighlighter : MonoBehaviour
     {

@@ -7,9 +7,9 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-using static Virtuademy.SDK.Tasks.TaskNode;
+using static SPACS.Tasks.TaskNode;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>

@@ -1,4 +1,4 @@
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
 
     public delegate void OnTaskComplete();

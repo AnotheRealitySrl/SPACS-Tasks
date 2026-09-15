@@ -1,9 +1,9 @@
-using Virtuademy.SDK.Tasks;
+using SPACS.Tasks;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Virtuademy.SDK.TasksNetworked
+namespace SPACS.TasksNetworked
 {
     public class NetworkedTaskStepSetter : TaskStepSetter
     {

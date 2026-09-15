@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Video;
 
-namespace Virtuademy.SDK.Tasks
+namespace SPACS.Tasks
 {
     public class VideoPlayerDetector : MonoBehaviour
     {

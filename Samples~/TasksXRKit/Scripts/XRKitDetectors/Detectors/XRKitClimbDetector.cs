@@ -1,4 +1,4 @@
-using Virtuademy.SDK.Tasks.XRDetectors;
+using SPACS.Tasks.XRDetectors;
 using Virtuademy.SDK.XRKit;
 
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Linq;
 using UnityEngine.XR.Interaction.Toolkit;
 using ClimbInteractable = Virtuademy.SDK.XRKit.ClimbInteractable;
 
-namespace Virtuademy.SDK.TasksXRKit.XRKitDetectors
+namespace SPACS.TasksXRKit.XRKitDetectors
 {
     ///////////////////////////////////////////////////////////////////////////
     /// <summary>
