@@ -1,6 +1,6 @@
 {
     "name": "SPACS.Tasks.Editor",
-    "rootNamespace": "SPACS.TasksEditor",
+    "rootNamespace": "SPACS.Tasks.Editor",
     "references": [
         "GUID:fe738984b0c28c342b0d3d49a82efa50"
     ],

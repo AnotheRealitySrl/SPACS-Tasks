@@ -2,9 +2,7 @@ using UnityEditor;
 
 using UnityEngine;
 
-using SPACS.Tasks;
-
-namespace SPACS.TasksEditor
+namespace SPACS.Tasks.Editor
 {
     [CustomEditor(typeof(TaskObjectReverter)), CanEditMultipleObjects]
     public class TaskObjectReverterEditor : UnityEditor.Editor

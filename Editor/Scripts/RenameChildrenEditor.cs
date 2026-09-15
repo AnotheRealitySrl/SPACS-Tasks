@@ -2,7 +2,7 @@ using UnityEditor;
 
 using UnityEngine;
 
-namespace SPACS.TasksEditor
+namespace SPACS.Tasks.Editor
 {
     public class RenameChildrenEditor : EditorWindow
     {
