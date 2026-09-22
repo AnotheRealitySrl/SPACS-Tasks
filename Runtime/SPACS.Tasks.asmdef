@@ -2,7 +2,6 @@
     "name": "SPACS.Tasks",
     "rootNamespace": "SPACS.Tasks",
     "references": [
-        "GUID:29b9bcb54fb7b804bab83d991ed7034a",
         "GUID:23c385269eb2e5044a0a2686aeeaf762",
         "GUID:6055be8ebefd69e48b49212b09b47b2f"
     ],
