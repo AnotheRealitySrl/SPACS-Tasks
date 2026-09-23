@@ -35,6 +35,7 @@
     }
   ],
   "dependencies": {
+    "com.anotherealitysrl.spacs-utility": "1.0.0",
     "com.anotherealitysrl.virtuademy-sdk-graphs": "2.0.0",
     "com.unity.ugui": "2.0.0"
   }
