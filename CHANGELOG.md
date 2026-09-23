@@ -1,5 +1,12 @@
 # Release notes
 
+## Unreleased
+
+### Fixed
+- **`WorldSpaceTasksCanvas` no longer carries a missing script in a creator project.** Its `Billboard`
+  lived in the application, which a creator project does not have; it now lives in `SPACS-Utility`
+  (same GUID), which this package declares as a dependency.
+
 ## v2.1.0
 
 ### Added
