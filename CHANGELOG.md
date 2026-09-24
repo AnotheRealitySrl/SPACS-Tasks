@@ -1,6 +1,22 @@
 # Release notes
 
-## Unreleased
+## v3.0.0
+
+### Changed
+- **The package is `SPACS-Tasks`, id `com.anotherealitysrl.spacs-tasks`** (was `Virtuademy-SDK-Tasks` /
+  `com.anotherealitysrl.virtuademy-sdk-tasks`). The `Virtuademy-SDK-*` prefix is kept for the SDK
+  proper — Core, Environments, Library; a package that carries no platform takes the `SPACS-*`
+  prefix, as SPACS-Utility did. The assemblies and namespaces were already `SPACS.Tasks*` and are
+  unchanged, so built bundles, Visual Scripting graphs and interpreted scripts are unaffected.
+- Depends on `com.anotherealitysrl.spacs-graphs` 3.0.0.
+
+### Breaking
+- A project that names `com.anotherealitysrl.virtuademy-sdk-tasks` in its `manifest.json` stops
+  resolving once it pulls this version: the manifest key must match the id in `package.json`.
+  Switch the key to `com.anotherealitysrl.spacs-tasks` and the URL to `SPACS-Tasks.git` (the package
+  rename migrator in Virtuademy-SDK-Environments does both). Registry releases up to 2026.5.0 are
+  unaffected: each pins the old repository URL at a tag, GitHub redirects that URL, and the tag
+  still carries the id it was released with.
 
 ### Fixed
 - **`WorldSpaceTasksCanvas` no longer carries a missing script in a creator project.** Its `Billboard`
