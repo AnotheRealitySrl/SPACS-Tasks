@@ -22,16 +22,6 @@
       "displayName": "Network Tasks",
       "description": "Contains the scripts used to create networked tasks",
       "path": "Samples~/TasksNetworked"
-    },
-    {
-      "displayName": "XR Tasks",
-      "description": "Contains the script used to be able to create tasks with the XR Interaction Toolkit",
-      "path": "Samples~/TasksXRKit"
-    },
-    {
-      "displayName": "XR Tasks sample scene",
-      "description": "Sample scene made with XR Tasks",
-      "path": "Samples~/TasksXRKitSampleScene"
     }
   ],
   "dependencies": {

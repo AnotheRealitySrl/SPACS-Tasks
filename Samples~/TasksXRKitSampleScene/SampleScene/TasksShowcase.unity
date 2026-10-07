@@ -1085,32 +1085,32 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855658
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855659
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855672
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1537303374}
         portName: next
     - rid: 6592035231311855673
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 827612001}
         portName: input
     - rid: 6592035231311855791
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1803984922}
         portName: input
@@ -1654,56 +1654,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855760
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855761
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855762
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855763
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855764
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855765
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086598
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1692573889}
         portName: next
     - rid: 6592035293631086599
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
     - rid: 6592035293631086600
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1922011539}
         portName: input
@@ -2440,32 +2440,32 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855666
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1672191872}
         portName: next
     - rid: 6592035231311855668
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1551133404}
         portName: input
     - rid: 6592035276768673793
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1537303374}
         portName: input
     - rid: 6592035293631086642
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1113425505}
         portName: input
     - rid: 6592035293631086643
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 640475923}
         portName: input
@@ -2745,26 +2745,26 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855680
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 6592035231311855681
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035293631086630
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1537303374}
         portName: dependencies
     - rid: 6592035293631086631
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1349950577}
         portName: next
@@ -3548,56 +3548,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 2226425432811241473
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 2226425432811241474
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 2226425432811241475
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 2226425432811241476
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 2226425432811241477
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 2226425432811241478
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 2226425432811241479
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086610
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1689334498}
         portName: next
     - rid: 6592035293631086611
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
@@ -6631,38 +6631,38 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855824
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855825
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855826
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855827
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855828
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855829
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 825219420}
         portName: dependencies
@@ -7072,20 +7072,20 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855675
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 6592035293631086632
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1113425505}
         portName: next
     - rid: 6592035293631086633
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 211798301}
         portName: dependencies
@@ -7704,56 +7704,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855695
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855696
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855697
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855698
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855730
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1803984922}
         portName: next
     - rid: 6592035231311855787
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: input
     - rid: 6592035231311855788
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1239336327}
         portName: input
     - rid: 6592035293631086627
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 944274797}
         portName: input
     - rid: 6592035293631086628
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 2081359049}
         portName: input
@@ -8173,38 +8173,38 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855720
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855721
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855722
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855723
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086619
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1803984922}
         portName: dependencies
     - rid: 6592035293631086620
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1422636523}
         portName: next
@@ -8405,38 +8405,38 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855710
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855711
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855712
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855713
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855795
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1797394417}
         portName: next
     - rid: 6592035231311855840
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 598687512}
         portName: input
@@ -8559,20 +8559,20 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855661
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 6592035231311855662
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855688
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 121889328}
         portName: dependencies
@@ -9210,50 +9210,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855744
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855745
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855746
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855747
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855748
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086615
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1239336327}
         portName: next
     - rid: 6592035293631086616
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 725493467}
         portName: dependencies
     - rid: 6592035293631086617
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 2081359049}
         portName: input
@@ -10186,56 +10186,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855774
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855775
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855776
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855777
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855778
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855779
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086604
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1922011539}
         portName: next
     - rid: 6592035293631086605
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
     - rid: 6592035293631086606
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1689334498}
         portName: input
@@ -11194,20 +11194,20 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035293631086638
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1551133404}
         portName: next
     - rid: 6592035293631086639
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 211798301}
         portName: dependencies
     - rid: 6592035293631086640
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 640475923}
         portName: input
@@ -11649,26 +11649,26 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855653
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 6592035231311855654
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855682
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1537303374}
         portName: dependencies
     - rid: 6592035293631086637
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1349950577}
         portName: input
@@ -12378,44 +12378,44 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855732
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855733
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855734
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855735
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855736
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855798
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 725493467}
         portName: dependencies
     - rid: 6592035293631086612
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 944274797}
         portName: input
@@ -12634,8 +12634,8 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855644
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1672191872}
         portName: dependencies
@@ -12823,26 +12823,26 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855656
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: dependencies
     - rid: 6592035293631086634
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1537303374}
         portName: dependencies
     - rid: 6592035293631086635
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1131133855}
         portName: next
     - rid: 6592035293631086636
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 237923284}
         portName: input
@@ -13609,38 +13609,38 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855715
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855716
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855717
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855718
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855724
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1803984922}
         portName: dependencies
     - rid: 6592035293631086618
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 789788231}
         portName: input
@@ -13956,44 +13956,44 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855650
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855651
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855670
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 121889328}
         portName: input
     - rid: 6592035231311855671
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1131133855}
         portName: input
     - rid: 6592035276768673794
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 211798301}
         portName: next
     - rid: 6592035293631086592
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1349950577}
         portName: input
     - rid: 6592035293631086593
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 237923284}
         portName: input
@@ -14371,14 +14371,14 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855646
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 211798301}
         portName: dependencies
     - rid: 6592035293631086641
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1113425505}
         portName: input
@@ -15031,14 +15031,14 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855789
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 211798301}
         portName: input
     - rid: 6592035231311855790
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1298827252}
         portName: input
@@ -15134,56 +15134,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855781
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855782
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855783
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855784
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855785
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855786
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086607
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1025866344}
         portName: next
     - rid: 6592035293631086608
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
     - rid: 6592035293631086609
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 331065395}
         portName: input
@@ -15278,50 +15278,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855753
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855754
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855755
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855756
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855757
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855758
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855831
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
     - rid: 6592035293631086597
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 162116954}
         portName: input
@@ -15977,50 +15977,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855705
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855706
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855707
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855708
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855793
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: next
     - rid: 6592035231311855794
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 825219420}
         portName: input
     - rid: 6592035231311855841
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1942311179}
         portName: input
     - rid: 6592035293631086621
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 2143163465}
         portName: input
@@ -16129,50 +16129,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855690
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855691
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855692
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855693
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855727
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 121889328}
         portName: next
     - rid: 6592035231311855728
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 725493467}
         portName: input
     - rid: 6592035231311855729
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1422636523}
         portName: input
     - rid: 6592035293631086629
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 789788231}
         portName: input
@@ -16739,74 +16739,74 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855700
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855701
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855702
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855703
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855750
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 725493467}
         portName: next
     - rid: 6592035231311855751
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1797394417}
         portName: input
     - rid: 6592035231311855842
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1692573889}
         portName: input
     - rid: 6592035293631086622
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 162116954}
         portName: input
     - rid: 6592035293631086623
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1922011539}
         portName: input
     - rid: 6592035293631086624
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1025866344}
         portName: input
     - rid: 6592035293631086625
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1689334498}
         portName: input
     - rid: 6592035293631086626
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 331065395}
         portName: input
@@ -16902,56 +16902,56 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855767
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855768
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855769
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855770
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855771
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855772
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086601
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 162116954}
         portName: next
     - rid: 6592035293631086602
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1912737809}
         portName: dependencies
     - rid: 6592035293631086603
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1025866344}
         portName: input
@@ -17078,50 +17078,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855808
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855809
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855810
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855811
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855812
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855813
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855821
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1797394417}
         portName: dependencies
     - rid: 6592035293631086596
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 2143163465}
         portName: input
@@ -18202,7 +18202,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 6592035231311855635
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: First Task
         position: {x: 160, y: 118}
@@ -18213,7 +18213,7 @@ MonoBehaviour:
         - {fileID: 1298827252}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855636
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Second Task
         position: {x: 514, y: 118}
@@ -18227,7 +18227,7 @@ MonoBehaviour:
         - {fileID: 640475923}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855800
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Third Task
         position: {x: 895, y: 119}
@@ -18238,7 +18238,7 @@ MonoBehaviour:
         - {fileID: 237923284}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855801
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Fourth Task
         position: {x: 1289, y: 120}
@@ -18247,7 +18247,7 @@ MonoBehaviour:
         - {fileID: 827612001}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855802
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Fifth Task
         position: {x: 1698.0001, y: 119.99998}
@@ -18257,7 +18257,7 @@ MonoBehaviour:
         - {fileID: 789788231}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855803
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Sixth Task
         position: {x: 2088.0002, y: 123}
@@ -18268,7 +18268,7 @@ MonoBehaviour:
         - {fileID: 944274797}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855804
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Seventh Task
         position: {x: 2499, y: 125}
@@ -18282,7 +18282,7 @@ MonoBehaviour:
         - {fileID: 331065395}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855805
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Eight Task
         position: {x: 2947, y: 128}
@@ -18292,7 +18292,7 @@ MonoBehaviour:
         - {fileID: 2143163465}
         graphContainer: {fileID: 2046185759}
     - rid: 6592035231311855806
-      type: {class: GraphBehaviour/GroupImplementation, ns: Virtuademy.SDK.Graphs, asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/GroupImplementation, ns: SPACS.Graphs, asm: SPACS.Graphs}
       data:
         title: Ninth Task
         position: {x: 3348.0002, y: 131}
@@ -18828,44 +18828,44 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855738
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855739
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855740
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855741
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855742
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086613
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 944274797}
         portName: next
     - rid: 6592035293631086614
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 725493467}
         portName: dependencies
@@ -19312,50 +19312,50 @@ MonoBehaviour:
           m_PersistentCalls:
             m_Calls: []
     - rid: 6592035231311855815
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855816
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855817
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: next
     - rid: 6592035231311855818
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855819
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035231311855820
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 0}
         portName: input
     - rid: 6592035293631086594
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1942311179}
         portName: next
     - rid: 6592035293631086595
-      type: {class: GraphBehaviour/PortReferenceImplementation, ns: Virtuademy.SDK.Graphs,
-        asm: Virtuademy.SDK.Graphs.Runtime}
+      type: {class: GraphBehaviour/PortReferenceImplementation, ns: SPACS.Graphs,
+        asm: SPACS.Graphs}
       data:
         nodeContainer: {fileID: 1797394417}
         portName: dependencies
