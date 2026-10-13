@@ -1,20 +1,5 @@
 # Release notes
 
-## Unreleased
-
-### Fixed
-- The "XR Tasks sample scene" sample referenced the graph types as `Virtuademy.SDK.Graphs`, an
-  assembly that no longer exists: every graph field deserialized to null. The 204 references now
-  name `SPACS.Graphs`. The "XR Tasks" asmdef no longer references `Reflectis.SDK.Utilities`,
-  deleted in 2025, by GUID.
-
-### Removed
-- The "XR Tasks" and "XR Tasks sample scene" samples are no longer listed in `package.json`. They
-  need `Virtuademy.SDK.XRKit` and Autohand, which exist only in the Virtuademy application, so they
-  could not compile in any other project; the scene also carried six components of a script deleted
-  in 2022. The files stay under `Samples~/` until the samples are rewritten on the XR Interaction
-  Toolkit alone.
-
 ## v3.0.0
 
 ### Changed
@@ -37,6 +22,17 @@
 - **`WorldSpaceTasksCanvas` no longer carries a missing script in a creator project.** Its `Billboard`
   lived in the application, which a creator project does not have; it now lives in `SPACS-Utility`
   (same GUID), which this package declares as a dependency.
+- The "XR Tasks sample scene" sample referenced the graph types as `Virtuademy.SDK.Graphs`, an
+  assembly that no longer exists: every graph field deserialized to null. The 204 references now
+  name `SPACS.Graphs`. The "XR Tasks" asmdef no longer references `Reflectis.SDK.Utilities`,
+  deleted in 2025, by GUID.
+
+### Removed
+- The "XR Tasks" and "XR Tasks sample scene" samples are no longer listed in `package.json`. They
+  need `Virtuademy.SDK.XRKit` and Autohand, which exist only in the Virtuademy application, so they
+  could not compile in any other project; the scene also carried six components of a script deleted
+  in 2022. The files stay under `Samples~/` until the samples are rewritten on the XR Interaction
+  Toolkit alone.
 
 ## v2.1.0
 
