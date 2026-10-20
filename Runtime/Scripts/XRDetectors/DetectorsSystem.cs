@@ -19,8 +19,13 @@ namespace SPACS.Tasks.XRDetectors
 
         void Awake()
         {
-            if (Instance == null) Instance = this;
-            else Destroy(gameObject);
+            if (Instance != null && Instance != this)
+            {
+                // A second system would register every detector in the scene again.
+                Destroy(gameObject);
+                return;
+            }
+            Instance = this;
 
             foreach (var activation in FindObjectsOfType<XRActivationDetector>())
             {

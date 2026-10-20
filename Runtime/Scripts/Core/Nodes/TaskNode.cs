@@ -186,9 +186,18 @@ namespace SPACS.Tasks
                 }
 
                 updateColor();
-                onStatusChanged.AddListener(oldStatus => updateColor());
+
+                // The panel redraws a node many times: keep one listener per node, the one of
+                // the element drawn last, instead of adding one on every redraw.
+                if (editorColorListener != null)
+                    onStatusChanged.RemoveListener(editorColorListener);
+                editorColorListener = oldStatus => updateColor();
+                onStatusChanged.AddListener(editorColorListener);
             }
         }
+
+        [System.NonSerialized]
+        private UnityAction<TaskStatus> editorColorListener;
 #endif
     }
 }

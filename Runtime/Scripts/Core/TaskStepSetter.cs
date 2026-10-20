@@ -126,7 +126,7 @@ namespace SPACS.Tasks
                 //While we have uncompleted task, we cycle into tasks to complete all of those
                 while (true)
                 {
-                    var task = parentTask.Dependencies.Where((task) => task.Status == TaskNode.TaskStatus.Todo && task.Previous == null).FirstOrDefault();
+                    var task = parentTask.Dependencies.Where((task) => task.Status == TaskNode.TaskStatus.Todo && task.Previous.Count == 0).FirstOrDefault();
 
                     if (task == null) break;
 
