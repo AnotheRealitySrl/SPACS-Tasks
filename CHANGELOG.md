@@ -1,5 +1,21 @@
 # Release notes
 
+## Unreleased
+
+No major bump: fixes only, no public API change.
+
+### Fixed
+- **"Start from step N" and the networked late-join now complete the steps before it.**
+  `TaskStepSetter.CompleteTaskRecursive` looked for the next dependency with `Previous == null`,
+  which is never true (`Previous` is a list): no dependency was ever completed. It now checks
+  `Previous.Count == 0`, as `TaskSystem` does.
+- `RaycastDetector` raises `onRaycastExit` as soon as the ray stops hitting a target, also when it
+  hits something else (it only did when it hit nothing at all). The cast no longer allocates every
+  frame, and a missing `castPivot` (no main camera yet) no longer throws.
+- `DetectorsSystem` returns after destroying a duplicate, so a second instance no longer registers
+  every detector in the scene again.
+- The graph panel no longer adds a status listener to a task node on every redraw in Play mode.
+
 ## v3.0.0
 
 ### Changed

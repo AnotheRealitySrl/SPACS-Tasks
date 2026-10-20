@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Linq;
 
 using UnityEngine;
 using UnityEngine.Events;
@@ -46,30 +45,45 @@ namespace SPACS.Tasks.Detectors
             StopAllCoroutines();
         }
 
+        private const float castDistance = 2f;
+
+        // Reused every frame, so the cast allocates nothing.
+        private readonly RaycastHit[] hitBuffer = new RaycastHit[16];
+
         void Update()
         {
-            RaycastHit[] hits = Physics.RaycastAll(castPivot.position, castPivot.forward, 2);
-
-            Debug.DrawRay(castPivot.position, castPivot.forward, Color.magenta);
-
-            foreach (var hit in hits)
+            if (castPivot == null)
             {
-                if (castTargets.Any(collider => collider == hit.collider))
-                {
-                    if (laser)
-                        laser.transform.position = hit.point;
-
-                    if (!routineStarted)
-                    {
-                        onRaycastHit?.Invoke();
-                        if (laser)
-                            laser.gameObject.SetActive(true);
-                        routineStarted = true;
-                        StartCoroutine(CountDown());
-                    }
-                }
+                if (!useCamera || Camera.main == null)
+                    return;
+                castPivot = Camera.main.transform;
             }
-            if (hits.Length == 0 && routineStarted)
+
+            int hitCount = Physics.RaycastNonAlloc(castPivot.position, castPivot.forward, hitBuffer, castDistance);
+
+            bool targetHit = false;
+            for (int i = 0; i < hitCount; i++)
+            {
+                if (!IsCastTarget(hitBuffer[i].collider))
+                    continue;
+
+                targetHit = true;
+                if (laser)
+                    laser.transform.position = hitBuffer[i].point;
+
+                if (!routineStarted)
+                {
+                    onRaycastHit?.Invoke();
+                    if (laser)
+                        laser.gameObject.SetActive(true);
+                    routineStarted = true;
+                    StartCoroutine(CountDown());
+                }
+                break;
+            }
+
+            // Exit as soon as the ray stops hitting a target, also when it hits something else.
+            if (!targetHit && routineStarted)
             {
                 onRaycastExit?.Invoke();
                 if (laser)
@@ -81,10 +95,22 @@ namespace SPACS.Tasks.Detectors
 
         private void Start()
         {
-            if (castPivot == null && useCamera)
+            if (castPivot == null && useCamera && Camera.main != null)
             {
                 castPivot = Camera.main.transform;
             }
+        }
+
+        private bool IsCastTarget(Collider hitCollider)
+        {
+            if (castTargets == null)
+                return false;
+            for (int i = 0; i < castTargets.Length; i++)
+            {
+                if (castTargets[i] == hitCollider)
+                    return true;
+            }
+            return false;
         }
 
         private IEnumerator CountDown()
