@@ -15,6 +15,7 @@ namespace SPACS.Tasks
     /// gameObject according to the specified task status:
     /// - Task Unlocked: enable monobehaviours
     /// - Task Completed: disable monobehaviours
+    /// Components that implement <see cref="ITaskReactorExempt"/> are left alone.
     /// </summary>
     public class TaskReactor : MonoBehaviour
     {
@@ -29,7 +30,7 @@ namespace SPACS.Tasks
         {
             task = GetComponentInParent<Task>();
             behaviours = GetComponents<MonoBehaviour>()
-                .Where(component => component != this && component)
+                .Where(component => component != this && component && component is not ITaskReactorExempt)
                 .ToList();
         }
 
@@ -59,6 +60,8 @@ namespace SPACS.Tasks
 
         public void AddToBehaviour(MonoBehaviour behaviour)
         {
+            if (behaviour is ITaskReactorExempt)
+                return;
             behaviours.Add(behaviour);
         }
     }

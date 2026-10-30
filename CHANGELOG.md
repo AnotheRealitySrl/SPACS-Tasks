@@ -2,9 +2,19 @@
 
 ## Unreleased
 
-No major bump: fixes only, no public API change.
+Minor bump (2026.7 additions below); no public member removed or renamed.
+
+### Added
+- **`TaskSystem.AdvancesFlow(TaskNode)`** (protected virtual): whether a task, in its status, unlocks the next task and
+  counts as done for the tasks depending on it. Default: Completed only, as before; a subclass can let a failed task
+  advance the flow.
+- **`ITaskReactorExempt`**: a component that implements it is not enabled and disabled by a `TaskReactor` on its object.
 
 ### Fixed
+- **Networked sample `TasksRPCManager`: the room property key is built once** (`tid` + view id). `OnJoinedRoom` runs
+  again for every `AddJoinRoomEvent` and appended the view id each time, so a rejoin read the wrong key. The normal
+  flow no longer logs errors ("Exist", "Not Exist, add it"). Same fix in the copy imported under
+  `Assets/Samples` of a project.
 - **"Start from step N" and the networked late-join now complete the steps before it.**
   `TaskStepSetter.CompleteTaskRecursive` looked for the next dependency with `Previous == null`,
   which is never true (`Previous` is a list): no dependency was ever completed. It now checks
