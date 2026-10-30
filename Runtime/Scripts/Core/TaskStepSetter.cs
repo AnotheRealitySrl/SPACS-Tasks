@@ -24,6 +24,10 @@ namespace SPACS.Tasks
 
         public static int StepIndex { get; set; } = 0;
 
+        /// <summary>True while a step setter completes the tasks before the step it starts from (or before the room's
+        /// state, when rejoining): those tasks were skipped, not done, and a procedure leaves them out of the score.</summary>
+        public static bool IsSkipping { get; protected set; }
+
         [Header("Scene Elements References")]
         [SerializeField] protected TaskSystem taskSystem = default;
         [Header("Training Steps")]
@@ -56,13 +60,21 @@ namespace SPACS.Tasks
 
             // Ordered list of tasks. I assign the state "Complete" until I find the node I want.
             IReadOnlyCollection<TaskNode> allNodes = taskSystem.Tasks;
-            foreach (TaskNode node in allNodes)
+            IsSkipping = true;
+            try
             {
-                if (CompleteTaskRecursive(node, trainingStep.Task.Node))
+                foreach (TaskNode node in allNodes)
                 {
-                    // Target reached. Nothing else to do in this loop.
-                    break;
+                    if (CompleteTaskRecursive(node, trainingStep.Task.Node))
+                    {
+                        // Target reached. Nothing else to do in this loop.
+                        break;
+                    }
                 }
+            }
+            finally
+            {
+                IsSkipping = false;
             }
         }
 

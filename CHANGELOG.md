@@ -8,6 +8,10 @@ Minor bump (2026.7 additions below); no public member removed or renamed.
 - **`TaskSystem.AdvancesFlow(TaskNode)`** (protected virtual): whether a task, in its status, unlocks the next task and
   counts as done for the tasks depending on it. Default: Completed only, as before; a subclass can let a failed task
   advance the flow.
+- **`TaskNode.Hint`, `RightFeedback`, `WrongFeedback`**: plain texts beside the description, for procedures. Graphs
+  saved before they existed load them empty.
+- **`TaskStepSetter.IsSkipping`**: true while a step setter completes the tasks before the step it starts from, so a
+  procedure can leave them out of the score.
 - **`ITaskReactorExempt`**: a component that implements it is not enabled and disabled by a `TaskReactor` on its object.
 
 ### Fixed
