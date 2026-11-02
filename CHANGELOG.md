@@ -1,8 +1,11 @@
 # Release notes
 
-## Unreleased
+## v3.1.0
 
-Minor bump (2026.7 additions below); no public member removed or renamed.
+Platform 2026.7. Minor: additive, no public member removed or renamed. What the SDK's procedures need from the task
+engine: plain hint and feedback texts on a task node, a hook that decides whether a task in its status advances the
+flow (`AdvancesFlow`), the step setter's skip state, and an opt-out from `TaskReactor`. "Start from step N" and the
+networked late-join now complete the steps before it, and the networked sample reads its room key right on a rejoin.
 
 ### Added
 - **`TaskSystem.AdvancesFlow(TaskNode)`** (protected virtual): whether a task, in its status, unlocks the next task and
