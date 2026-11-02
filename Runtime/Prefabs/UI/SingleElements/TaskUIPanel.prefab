@@ -66,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -27281544265241077, guid: 139febde025062f49a3b977a0ec4282a, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -280,8 +280,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Step
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
-  m_sharedMaterial: {fileID: -3195677731560505634, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -697,7 +697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 624c0cc15565d144999852e8b4f34acf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texture: {fileID: 8400000, guid: 0e3e38dfb63709b4ca733b77e43488f7, type: 2}
+  texture: {fileID: 0}
   sampleTextureName: SampleTexture
 --- !u!328 &7222496786104933673
 VideoPlayer:
@@ -711,7 +711,7 @@ VideoPlayer:
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 0e3e38dfb63709b4ca733b77e43488f7, type: 2}
+  m_TargetTexture: {fileID: 0}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: _MainTex
@@ -822,8 +822,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
-  m_sharedMaterial: {fileID: -3195677731560505634, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1015,8 +1015,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
-  m_sharedMaterial: {fileID: -3195677731560505634, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1247,8 +1247,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: /
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
-  m_sharedMaterial: {fileID: -3195677731560505634, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1531,7 +1531,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8a2fa3bfe1487aa44b63f652060e6497, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1683,7 +1683,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 8400000, guid: 0e3e38dfb63709b4ca733b77e43488f7, type: 2}
+  m_Texture: {fileID: 0}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1823,8 +1823,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Lorem ipsum
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2119,7 +2119,7 @@ VideoPlayer:
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 7466813e86b78744cbd696e63a7130f3, type: 2}
+  m_TargetTexture: {fileID: 0}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
@@ -2429,19 +2429,19 @@ MonoBehaviour:
     textColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+    font: {fileID: 0}
   toDoSettings:
     fontSize: 60
     textColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+    font: {fileID: 0}
   completedSettings:
     fontSize: 60
     textColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+    font: {fileID: 0}
   onTaskLocked:
     m_PersistentCalls:
       m_Calls: []

@@ -32,6 +32,11 @@ networked late-join now complete the steps before it, and the networked sample r
 - `DetectorsSystem` returns after destroying a duplicate, so a second instance no longer registers
   every detector in the scene again.
 - The graph panel no longer adds a status listener to a task node on every redraw in Play mode.
+- `TaskUIPanel` and `TaskUIElement` no longer reference assets the package never shipped (two TMP fonts and
+  TMP Essentials' LiberationSans, the Trapezoid and BGImageGradient sprites, the two video render textures): 24
+  missing references in every project that installs the package. They are empty, which is what a missing reference
+  already was at runtime: the texts take TMP's default font, the images draw plain, `TasksUIVideoController` makes
+  its render texture as before.
 
 ## v3.0.0
 
