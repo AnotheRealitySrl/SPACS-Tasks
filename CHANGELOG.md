@@ -1,10 +1,27 @@
 # Release notes
 
-## Unreleased
+## v3.1.0
 
-No major bump: fixes only, no public API change.
+Platform 2026.7. Minor: additive, no public member removed or renamed. What the SDK's procedures need from the task
+engine: plain hint and feedback texts on a task node, a hook that decides whether a task in its status advances the
+flow (`AdvancesFlow`), the step setter's skip state, and an opt-out from `TaskReactor`. "Start from step N" and the
+networked late-join now complete the steps before it, and the networked sample reads its room key right on a rejoin.
+
+### Added
+- **`TaskSystem.AdvancesFlow(TaskNode)`** (protected virtual): whether a task, in its status, unlocks the next task and
+  counts as done for the tasks depending on it. Default: Completed only, as before; a subclass can let a failed task
+  advance the flow.
+- **`TaskNode.Hint`, `RightFeedback`, `WrongFeedback`**: plain texts beside the description, for procedures. Graphs
+  saved before they existed load them empty.
+- **`TaskStepSetter.IsSkipping`**: true while a step setter completes the tasks before the step it starts from, so a
+  procedure can leave them out of the score.
+- **`ITaskReactorExempt`**: a component that implements it is not enabled and disabled by a `TaskReactor` on its object.
 
 ### Fixed
+- **Networked sample `TasksRPCManager`: the room property key is built once** (`tid` + view id). `OnJoinedRoom` runs
+  again for every `AddJoinRoomEvent` and appended the view id each time, so a rejoin read the wrong key. The normal
+  flow no longer logs errors ("Exist", "Not Exist, add it"). Same fix in the copy imported under
+  `Assets/Samples` of a project.
 - **"Start from step N" and the networked late-join now complete the steps before it.**
   `TaskStepSetter.CompleteTaskRecursive` looked for the next dependency with `Previous == null`,
   which is never true (`Previous` is a list): no dependency was ever completed. It now checks
@@ -15,6 +32,11 @@ No major bump: fixes only, no public API change.
 - `DetectorsSystem` returns after destroying a duplicate, so a second instance no longer registers
   every detector in the scene again.
 - The graph panel no longer adds a status listener to a task node on every redraw in Play mode.
+- `TaskUIPanel` and `TaskUIElement` no longer reference assets the package never shipped (two TMP fonts and
+  TMP Essentials' LiberationSans, the Trapezoid and BGImageGradient sprites, the two video render textures): 24
+  missing references in every project that installs the package. They are empty, which is what a missing reference
+  already was at runtime: the texts take TMP's default font, the images draw plain, `TasksUIVideoController` makes
+  its render texture as before.
 
 ## v3.0.0
 

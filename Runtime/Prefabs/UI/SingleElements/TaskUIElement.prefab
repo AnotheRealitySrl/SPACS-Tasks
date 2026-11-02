@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bd56b603ef0dcc943ad46f3f89e62399, type: 2}
-  m_sharedMaterial: {fileID: 740420353919286514, guid: bd56b603ef0dcc943ad46f3f89e62399, type: 2}
+  m_fontAsset: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -196,19 +196,19 @@ MonoBehaviour:
     textColor: {r: 0.64705884, g: 0.7137255, b: 0.77254903, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: bd56b603ef0dcc943ad46f3f89e62399, type: 2}
+    font: {fileID: 0}
   toDoSettings:
     fontSize: 44
     textColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: b26151e5c193f8d4f974d4213ee9683d, type: 2}
+    font: {fileID: 0}
   completedSettings:
     fontSize: 38
     textColor: {r: 0.46666667, g: 0.5372549, b: 0.61960787, a: 1}
     fontStyle: 0
     alignmentOptions: 513
-    font: {fileID: 11400000, guid: bd56b603ef0dcc943ad46f3f89e62399, type: 2}
+    font: {fileID: 0}
   onTaskLocked:
     m_PersistentCalls:
       m_Calls:

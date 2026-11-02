@@ -161,13 +161,20 @@ namespace SPACS.Tasks
         }
 
         ///////////////////////////////////////////////////////////////////////////
+        /// <summary>Whether <paramref name="task"/>, in its current status, lets the flow go on: unlocks the next
+        /// task, and counts as done for the tasks that depend on it. By default only a completed task does; a
+        /// subclass can let a failed one too.</summary>
+        protected virtual bool AdvancesFlow(TaskNode task) => task.Status == TaskStatus.Completed;
+
+        ///////////////////////////////////////////////////////////////////////////
         /// Called when a task changed its status
         protected void OnTaskStatusChanged(TaskNode task, TaskStatus _)
         {
-            // Has the task been completed?
-            if (task.Status == TaskStatus.Completed)
+            // Has the task been completed (or, as a subclass decides, failed in a way that lets the flow go on)?
+            if (AdvancesFlow(task))
             {
-                OnTaskCompleted?.Invoke(task);
+                if (task.Status == TaskStatus.Completed)
+                    OnTaskCompleted?.Invoke(task);
 
                 // Unlock the next task (if it exists)
                 TaskNode nextTask = task.Next;
@@ -177,7 +184,7 @@ namespace SPACS.Tasks
                 // Complete any task that depends on this task IF it is the last task to be completed
                 // in the collection of dependencies
                 foreach (var taskDependingOnThis in task.TasksDependingOnThis)
-                    if (taskDependingOnThis.Dependencies.All(dep => dep.Status == TaskStatus.Completed))
+                    if (taskDependingOnThis.Dependencies.All(AdvancesFlow))
                         taskDependingOnThis.Status = TaskStatus.Completed;
 
                 if (task == Tasks.LastOrDefault())

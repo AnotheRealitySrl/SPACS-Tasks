@@ -12,6 +12,27 @@ namespace SPACS.TasksNetworked
         // ROOM CUSTOM PROPERTIES
         public string CURRENT_TASKS_ID = "tid";
 
+        // The room property of this task system: "tid" and the view id, built once. OnJoinedRoom runs again for every
+        // AddJoinRoomEvent, and appending the view id each time read the wrong key on rejoin.
+        private string tasksIdKey;
+        private string TasksIdKey
+        {
+            get
+            {
+                if (tasksIdKey == null)
+                {
+                    int viewId = GetComponent<PhotonView>().ViewID;
+                    if (viewId == 0)
+                    {
+                        // Not allocated yet: do not keep a key that names no view.
+                        return CURRENT_TASKS_ID + viewId;
+                    }
+                    tasksIdKey = CURRENT_TASKS_ID + viewId;
+                }
+                return tasksIdKey;
+            }
+        }
+
         public delegate void OnJoinRoom(int id);
         public event OnJoinRoom OnRoomJoined;
         public event ITasksRPCManager.OnTaskComplete OnTaskCompleted;
@@ -33,22 +54,18 @@ namespace SPACS.TasksNetworked
             PhHashtable roomCustomProps = room.CustomProperties;
             PhHashtable newRoomProperties = new PhHashtable();
 
-            CURRENT_TASKS_ID = CURRENT_TASKS_ID + GetComponent<PhotonView>().ViewID;
-
-            if (roomCustomProps.TryGetValue(CURRENT_TASKS_ID, out var taskID))
+            if (roomCustomProps.TryGetValue(TasksIdKey, out var taskID))
             {
-                Debug.LogError("Exist");
                 if ((int)taskID != -1)
                 {
-                    Debug.LogError($"TaskID current: {(int)taskID}");
+                    Debug.Log($"[TasksRPCManager] Restoring the room's task state: last completed task {(int)taskID}");
                     OnRoomJoined?.Invoke((int)taskID);
                     OnInitRoom?.Invoke((int)taskID);
                 }
             }
             else
             {
-                Debug.LogError("Not Exist, add it");
-                newRoomProperties.Add(CURRENT_TASKS_ID, -1);
+                newRoomProperties.Add(TasksIdKey, -1);
                 // Saves new custom properties
                 room.SetCustomProperties(newRoomProperties);
             }
@@ -60,7 +77,7 @@ namespace SPACS.TasksNetworked
             Room room = PhotonNetwork.CurrentRoom;
             PhHashtable newRoomProperties = new PhHashtable
             {
-                { CURRENT_TASKS_ID, id }
+                { TasksIdKey, id }
             };
             room.SetCustomProperties(newRoomProperties);
         }

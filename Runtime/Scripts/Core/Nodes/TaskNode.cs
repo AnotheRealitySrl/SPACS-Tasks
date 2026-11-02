@@ -44,6 +44,15 @@ namespace SPACS.Tasks
         [SerializeField, Tooltip("The task description")]
         protected string description;
 
+        [SerializeField, TextArea(1, 4), Tooltip("Hint shown when the user asks for one (procedures). Empty: no hint")]
+        protected string hint;
+
+        [SerializeField, TextArea(1, 4), Tooltip("Shown when the task is done right (procedures). Empty: a generic text")]
+        protected string rightFeedback;
+
+        [SerializeField, TextArea(1, 4), Tooltip("Shown for a wrong attempt on the task (procedures). Empty: the reason, or a generic text")]
+        protected string wrongFeedback;
+
         [SerializeField, Tooltip("Image media file attached to the task")]
         protected Sprite image = default;
 
@@ -94,6 +103,28 @@ namespace SPACS.Tasks
         {
             get => description;
             set => description = value;
+        }
+
+        ///////////////////////////////////////////////////////////////////////////
+        /// <summary>The hint text, as written on the node (null in graphs saved before it existed)</summary>
+        public string Hint
+        {
+            get => hint ?? string.Empty;
+            set => hint = value;
+        }
+
+        /// <summary>The text for a right completion, as written on the node (null in older graphs)</summary>
+        public string RightFeedback
+        {
+            get => rightFeedback ?? string.Empty;
+            set => rightFeedback = value;
+        }
+
+        /// <summary>The text for a wrong attempt, as written on the node (null in older graphs)</summary>
+        public string WrongFeedback
+        {
+            get => wrongFeedback ?? string.Empty;
+            set => wrongFeedback = value;
         }
 
         ///////////////////////////////////////////////////////////////////////////
